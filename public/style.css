@@ -90,7 +90,7 @@ header {
 
 #wrapper p {
     font-style: italic; 
-    max-width: 500px;
+    max-width: 1000px;
     margin: 32px auto;
     font-size: 22px;
     line-height: 34px;
@@ -112,10 +112,10 @@ a {
 
 
 .cards {
-    max-width: 700px;
+    max-width: 1200px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
     padding-bottom: 40px;
 
