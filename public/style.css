@@ -194,8 +194,8 @@ iframe {
         grid-template-columns: 1fr;
     }
     .card{
-        margin-top: 50px;
-        margin: 50px;
+        margin-top: 10px;
+        margin: 150px;
     }
 
 }
